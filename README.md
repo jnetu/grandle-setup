@@ -20,10 +20,10 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/joaonetu/grandle-setup.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the directory created:
 
    ```bash
-   cd your-project
+   cd grandle-setup
    ```
 ## Running the Project
 3. To run the project, use the following Gradle command:
