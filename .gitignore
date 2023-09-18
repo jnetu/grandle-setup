@@ -20,9 +20,9 @@ tmp/
 build/
 out/
 
-# Gradle's files
-gradle-wrapper.jar
-gradle-wrapper.properties
+# i think we need theses Gradle's files
+#gradle-wrapper.jar
+#gradle-wrapper.properties
 
 # IntelliJ IDEA
 .idea/
