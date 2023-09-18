@@ -26,6 +26,11 @@ To get started with this project, follow these steps:
    cd grandle-setup
    ```
 ## Running the Project
+3. To build the project, use the following Gradle command:
+   ```bash
+   ./gradlew build
+   ```
+
 3. To run the project, use the following Gradle command:
    ```bash
    ./gradlew run
