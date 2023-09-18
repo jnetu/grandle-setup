@@ -1,0 +1,35 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Bin files
+*.class
+
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+bin/
+tmp/
+
+# Gradle build's folders
+.gradle/
+build/
+out/
+
+# Gradle's files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# IntelliJ IDEA
+.idea/
+*.xml
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
